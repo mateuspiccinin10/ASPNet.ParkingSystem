@@ -140,3 +140,4 @@ C:\Users\mpicc\OneDrive\Área de Trabalho\dev\projects\ParkingSystem\bin\Debug\n
 C:\Users\mpicc\OneDrive\Área de Trabalho\dev\projects\ParkingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mpicc\OneDrive\Área de Trabalho\dev\projects\ParkingSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\mpicc\OneDrive\Área de Trabalho\dev\projects\ParkingSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mpicc\OneDrive\Área de Trabalho\dev\projects\ParkingSystem\obj\Debug\net8.0\ParkingSystem.sourcelink.json
