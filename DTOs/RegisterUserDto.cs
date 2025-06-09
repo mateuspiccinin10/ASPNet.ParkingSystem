@@ -8,7 +8,7 @@ public class RegisterUserDto
     public string Username { get; set; } = string.Empty;
 
     [Required]
-    public string PasswordHash { get; set; } = string.Empty;
+    public string Password { get; set; } = string.Empty;
 
     [Required]
     [RegularExpression("^(admin|operator)$", ErrorMessage = "O tipo de usuário deve ser 'admin' ou 'operator'")]

@@ -57,7 +57,7 @@ public class UsersController : ControllerBase
         var user = new User
         {
             Username = dto.Username,
-            PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.PasswordHash),
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password),
             Role = dto.Role.ToLower(),
         };
 
